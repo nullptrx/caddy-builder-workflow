@@ -102,6 +102,7 @@ jobs:
           --with clevergo.tech/caddy-dnspodcn \
           --with github.com/caddy-dns/duckdns \
           --with github.com/mholt/caddy-dynamicdns \
+          --with github.com/caddy-dns/alidns \
           --with github.com/mholt/caddy-events-exec \
           --with github.com/WeidiDeng/caddy-cloudflare-ip \
           --with github.com/caddyserver/forwardproxy@caddy2=github.com/sagernet/forwardproxy@latest \
